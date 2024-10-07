@@ -7,6 +7,9 @@ Este projeto é um portifólio pessoal que servirá de entrega para o checkpoint
 - Layout responsivo para uma melhor experiência em dispositivos móveis e desktops.
 - Seções para exibir informações pessoais, currículo, projetos e detalhes de contato.
 
+## Link do site no Vercel
+https://portifolio-omega-woad.vercel.app/
+
 ## Tecnologias Utilizadas
 - React
 - Tailwind CSS
