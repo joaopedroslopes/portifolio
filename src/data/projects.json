@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Calculator made with JS",
+        "description": "Calculator inspired by the iOS calculator, developed using HTML, CSS, and JavaScript. The project faithfully recreates the interface and functionality, offering basic and advanced operations with a responsive and interactive design. Perfect for users seeking an intuitive and elegant calculation experience directly in the browser.",
+        "technologies": "JavaScript, HTML, CSS",
+        "icon_image": "./images/calculadora.PNG",
+        "image_1": "./images/calculadora.PNG",
+        "image_2": "./images/calculadora.PNG",
+        "link": "https://github.com/joaopedroslopes/calculadora"
+    },
+    {
+        "id": 2,
+        "title": "Virtual birthday card",
+        "description": "Virtual birthday card developed with HTML, CSS, and JavaScript. Upon accessing the page, a congratulatory message appears, followed by a charming animation where multiple hearts float upwards. This project combines an interactive and delightful design, perfect for sending a unique and heartfelt digital birthday greeting.",
+        "technologies": "JavaScript, HTML, CSS",
+        "icon_image": "./images/niver-mae.PNG",
+        "image_1": "./images/niver-mae.PNG",
+        "image_2": "./images/niver-mae.PNG",
+        "link": "https://github.com/joaopedroslopes/niver-mae"
+    }
+]
