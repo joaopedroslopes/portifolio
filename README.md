@@ -18,7 +18,7 @@ Este projeto é um portifólio pessoal que servirá de entrega para o checkpoint
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/joaopedroslopes/portifolio
    ```
 2. Navegue até o diretório do projeto:
     ```bash
